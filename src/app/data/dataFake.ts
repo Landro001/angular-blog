@@ -1,15 +1,51 @@
 export const dataFake = [
   {
     "id":"1",
-    "title":"NOVO CAPITÃO AMÉRICA EM 3D",
-    "description":"Marvel anuncia um novo filme do Capitão América, confira",
-    "photoCover":"https://t.ctcdn.com.br/bNnB3OpzJZuIVSqpsOY9dBQzGF4=/640x360/smart/i604548.jpeg"
+    "title":"HOLLOW KNIGHT SILKSONG A SEQUÊNCIA OFICIAL",
+    "description":"Hollow Knight: Silksong é um futuro jogo de ação e aventura metroidvania desenvolvido e publicado pela Team Cherry para Windows, macOS, Linux, Nintendo Switch, Xbox Series X e Series S, PlayStation 4, e PlayStation 5. Foi anunciado em fevereiro de 2019 como uma sequência do jogo Hollow Knight, de 2017",
+    "photoCover":"https://cdn.akamai.steamstatic.com/steam/apps/1030300/capsule_616x353.jpg?t=1695443850"
   },
   {
     "id":"2",
-    "title":"Nova Série anunciada no Diney+",
-    "description":"Uma nova temporada inédica é públicada pela Marvel na Diney+",
-    "photoCover":"https://t.ctcdn.com.br/ZSRwUv3JcX2-ako-BByg8NVfcJg=/640x360/smart/i808139.jpeg"
+    "title":"História do jogo",
+    "description":"O mundo de Hollow Knight é habitado por insetos antropomórficos que viviam em uma cidade subterrânea, até que um tipo de contaminação enlouqueceu as criaturas. O Hollow Knight, personagem principal que carrega o nome do jogo ('cavaleiro vazio' em inglês), é um tipo de receptáculo criado para combater essa infecção. No entanto, após tantos anos e ciclos, não sobrou muito o que salvar. O mundo já está em ruínas e o jogador apenas encontra registros dessa civilização que supostamente deveria proteger. Em meio a tudo isso, o cavaleiro encontra também Hornet, a protetora dessas ruínas que às vezes tenta impedi-lo. O enredo de Hollow Knight é tão profundo quanto seu mapa e, caso jogadores se interessem, é possível ir atrás de cada figura que era importante nesse mundo e descobrir o que aconteceu depois desses anos, como o 'Rei Pálido' e a 'Dama Branca'. Boa parte da história é contada de forma sutil ou indireta com cenas e diálogos que insinuam ligações entre personagens para que o usuário ligue os pontos, ou melhor, teça os fios.",
+    "photoCover":"https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000003208/4643fb058642335c523910f3a7910575f56372f612f7c0c9a497aaae978d3e51"
+  },
+  {
+    "id":"3",
+    "title":"Review da Obra de Arte chamada Hollow Knight",
+    "description":"“Hollow Knight” é o melhor jogo que eu joguei em 2019 e a experiência de jogar novamente em 2021 está sendo muito agradável. O jogo consegue mesclar a experiência de exploração no estilo Metroidvania com um sistema de batalhas ao estilo souls. A história do jogo me prendeu do início ao fim, ainda que exija paciência e dedicação para ser encontrada. Todo o visual, desenhado à mão, é impressionante por sua beleza e pelo cuidado dedicado em cada detalhe. Aliás, poucos jogos conseguem usam o cenário tão bem o cenário para contar histórias. Pontos para a excelente direção de arte. Este visual é complementado por uma trilha sonora digna das grandes produções de videogame, ou mesmo do cinema. As músicas são marcantes. E ainda tem o bônus dos efeitos sonoros impecáveis e totalmente integrados à jogabilidade, te guiando e te ajudando se você souber prestar atenção. Tudo isso poderia ser ofuscado pela dificuldade do jogo, que é muito alta, mas a desenvolvedora caprichou e a jogabilidade é uma das melhores que já vi em um jogo de plataformas 2D. Você vai querer seguir jogando e evoluindo até o ponto de fazer coisas que achava impossível e que necessitariam de um novo item. Gostaria de dar uma salva de palmas para este pequeno estúdio australiano, que fez uma verdadeira obra prima dos videogames. Desconfio que hoje “Hollow Knight” esteja entre os 10 jogos que mais gostei de jogar. Incrível que tenham feito isso “nos anos 2000” e com apenas 57 mil dólares. Nota máxima para Hollow Knight.",
+    "photoCover":"https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1619987265163-9XILMVT3TK4HZ5X6538M/VH_01_1080pjpg.jpg"
+  },
+  {
+    "id":"4",
+    "title":"Quais são todas as dlcs de Hollow Knight?",
+    "description":"Hollow Knight possui 4 DLCs confirmadas e publicadas sendo elas: Sonhos Ocultos, Trupe Grimm, Sangue Vital e Mestre dos Deuses. Tendo as duas primeiras sido lançadas ainda em 2017 e as duas ultimas lançadas no ano seguinte, em 2018. Cada DLC traz um pouco mais de história, novos personagens e novas possibilidades para o gameplay. Vale o destaque para Sonhos Ocultos que traz uma nova arma ao jogo, o ferrão dos sonhos, nos dando a capacidade de entrar nos sonhos de alguns personagens e ter novos diálogos e até mesmo novos embates com chefes já derrotados ou NPCs que não eram ameaça. Ainda em Sonhos Ocultos temos mais do desvendar da trama e acesso à uma câmara com mensagens dos apoiadores do projeto no Kickstarter. Há diversas mensagens ali e próximo ao acesso dessa câmara há um cemitério com diversos NPCs também relacionados aos apoiadores. Trupe Grimm trás algumas melhorias em amuletos, alguns amuletos novos e uma sombria temática de circo itinerante misturada com rituais, também traz um dos chefes mais difíceis do jogo, o Mestre da Trupe, Grimm. Sangue Vital traz novos amuletos e uma camada mais baixa de história, seja ela relacionada ao sangue azul encontrado em alguns lugares do jogo ou seja ela sobre a misteriosa origem do protagonista. Por fim Mestre dos Deuses traz um novo NPC, dois novos finais e o modo boss rush dentro do jogo chamado Panteão dos Deuses. Esse NPC também acrescenta um pouco de história e os finais extras que podem ser liberados são dentro do Panteão dos Deuses. Certamente para liberar o chefe você precisa antes tê-lo vencido no decorrer da historia do jogo. Há também nessa DLC uma câmara onde poderá voltar a enfrentar qualquer chefe antes derrotado e alguns terão novas formas ou melhoramentos.",
+    "photoCover":"https://4.bp.blogspot.com/-b6at9pmTQjA/W4ADrePeZ-I/AAAAAAAAAmE/oi6xCU0Y4_o0qzKMAcG_qmqCcCmM7UQ6QCLcBGAs/s1600/DlTOpGJU0AAy0R2.jpg"
+  },
+  {
+    "id":"5",
+    "title":"A expansão 'Echoe of the Eyes' com mais conteúdo para explorar",
+    "description":"Uma estranha foto de satélite que não pode ser explicada. Uma nova exposição de museu que marca o início da trilha para uma última jornada pela natureza. Você deveria puxar o fio e desvendar o segredo mais profundo do sistema solar, ou é melhor deixar algum conhecimento no escuro? O programa espacial Hearthian detectou uma anomalia que não pode ser atribuída a nenhum local conhecido no sistema solar. Pegue sua lanterna e prepare-se para iluminar os segredos mais sombrios de Outer Wilds...",
+    "photoCover":"https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OuterWildsEchoesoftheEye_MobiusDigital_Expansion_S1_2560x1440-1e8dd4dc3c0db902ff689686928633d2"
+  },
+  {
+    "id":"6",
+    "title":"Recepção ao grande universo de Outer Wilds",
+    "description":"Bem-vindo ao Programa Espacial: Você é o mais novo membro do Outer Wilds Ventures, um programa espacial incipiente que busca respostas em um sistema solar estranho e em constante mudança. Quem construiu as ruínas na lua? O que se esconde no coração de Dark Bramble? Por que você está preso em um loop temporal e ele pode ser interrompido? Para resolver esses mistérios você terá que se aventurar nos confins mais perigosos do espaço. Um mundo que muda com o tempo: Os planetas de Outer Wilds estão repletos de locais escondidos que mudam com o passar do tempo. Visite uma cidade subterrânea antes que ela seja engolida pela areia ascendente ou explore a crosta de um planeta oco enquanto ela desmorona sob seus pés. Cada segredo é guardado por ambientes perigosos e desastres naturais enquanto o sistema solar fica fora de controle. Pegue seu equipamento de caminhada: Calce as botas de caminhada, verifique os níveis de oxigênio e prepare-se para se aventurar no espaço. Use a sonda espacial Little Scout para iluminar cavernas escuras, tirar fotos ou testar perigos em seu ambiente. Rastreie áudio misterioso com seu Signal Scope ou use seu Tradutor para decifrar um antigo enigma Nomai. Navegue pela escuridão do espaço com seu jetpack e sua nave.",
+    "photoCover":"https://cdn.akamai.steamstatic.com/steam/apps/753640/capsule_616x353.jpg?t=1687369978"
+  },
+  {
+    "id":"7",
+    "title":"Meu curto review dessa obra incrível",
+    "description":"Outer Wilds é um jogo muito especial. Uma daquelas obras transcendentais, que fazem você ficar pensando nela o tempo o todo, mesmo quando não está jogando. É também uma experiência que vai ficar com você durante muito tempo depois de ter terminado. É uma obra-prima de design, de criatividade e feito com muito amor e paixão. Uma joia rara e um sopro de ar fresco em uma galáxia de milhares de jogos com recompensas vazias, onde tudo o motor de tudo é a curiosidade (e o coração) do jogador.",
+    "photoCover":"https://s3.amazonaws.com/prod-media.gameinformer.com/styles/full/s3/2019/06/03/ab51e32a/ow1.jpg"
+  },
+  {
+    "id":"8",
+    "title":"Porque Outer Wilds é tão diferente?",
+    "description":"Outer Wilds apresenta uma versão em miniatura de um sistema solar próprio composto por diferentes planetas, suas respectivas luas, satélites naturais e artificiais. Destacam-se além do Recanto Lenhoso os Gêmeos Ampulheta, o Vale Incerto, as Profundezas do Gigante e o Abrolho Sombrio, bem como a Estação Solar, a Pedra da Lia, o Luzeiro do Vale, a Lua Quântica, o Canhão de Sonda Orbital, o Buraco Branco e o Xereta. Cada planeta é absurdamente único, com suas próprias regras de física, fenômenos naturais acontecendo e quebra-cabeças. Ao longo de 22 minutos, todos esses astros vão mudando e são lindamente forjados. O Vale Incerto, por exemplo, tem um buraco negro no núcleo que suga todas as suas partes aos poucos; já os Gêmeos Ampulheta funcionam como um relógio, em que a areia de um é levada até outro para revelar torres antigas construídas pelos Nomai. Cada um desses corpos celestes funciona como um personagem que expande a narrativa do jogo, e conforme eles vão se modificando, seus segredos são revelados e novas áreas são liberadas, muitas dessas que antes não poderiam ser exploradas. No fim das contas, cada planeta é um invólucro artístico e metafísico que transborda beleza e encanto. Não quero entrar muito em detalhes para evitar spoilers e tirar o senso de descoberta, mas existem locais fascinantes neste universo e no momento que você entende como cada um trabalha, finalmente irá resolver o grande mistério do jogo. Este é certamente um dos momentos mais memoráveis da história dos videogames, já que o título da Mobius Digital conta uma história totalmente inovadora e original, e a cada nova revelação tudo fica ainda mais intrigante, seja qual caminho você escolher.",
+    "photoCover":"https://s.yimg.com/ny/api/res/1.2/bNcy5zotfEnPezbQH7GQaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/26d559b0-0eb1-11ed-93fe-11b40788df11"
   },
 ]
 
